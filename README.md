@@ -10,5 +10,6 @@ computer move is done by random function
 after each move you can check your move is a loss,tie or win 
 match vicory will be  decide after 5 Wins
 
+jj
 ![screenshot_1508428290](https://user-images.githubusercontent.com/32610794/32132020-38d9b686-bbd9-11e7-8d6d-d3327f1c7f92.png)
 
